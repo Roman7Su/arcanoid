@@ -1,0 +1,13 @@
+/* Стиль для всех элементов */
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+/* Стиль для области игры */
+canvas {
+    display: block;
+    background-color: black;
+    /*  Блок по центру по горизонтали */
+    margin: 0 auto;
+}
